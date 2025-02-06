@@ -28,7 +28,7 @@ python run.py
 - 接口：`/api/posts`
 - 方法：GET
 - 参数：
-  - page: 页码（可选，默认1）
+  - timestamp: 时间戳（可选，默认无）
 
 ### 获取帖子详情
 - 接口：`/api/posts/<post_id>`
